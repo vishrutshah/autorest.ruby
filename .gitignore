@@ -288,5 +288,14 @@ __pycache__/
 *.xsd.cs
 
 package-lock.json
+*.tgz
 Gemfile.lock
 test/*/RspecTests/Generated/*
+
+yarn.lock
+
+package/
+*.tar
+*.tgz
+src/obj/
+*.log
