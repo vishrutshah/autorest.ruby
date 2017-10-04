@@ -1,6 +1,6 @@
 {
   "name": "@microsoft.azure/autorest.ruby",
-  "version": "2.0.0",
+  "version": "2.0.15",
   "description": "The Ruby extension for classic generators in AutoRest.",
   "scripts": {
     "autorest": "autorest",
@@ -48,6 +48,7 @@
     "yarn": "^1.0.2"
   },
   "dependencies": {
-    "dotnet-2.0.0": "^1.1.0"
+    "dotnet-2.0.0": "^1.1.0",
+    "@microsoft.azure/autorest.modeler": "2.0.21"
   }
 }
